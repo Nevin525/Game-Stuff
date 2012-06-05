@@ -1,0 +1,21 @@
+[04.26.12]
+	+Added State Class
+	+Added State Handler Class
+	+Added Object Class
+	+Added MenuObject Class
+	*Changed tile size to (hd) 64x64 and (sd) 32x32
+	*Centered player inside frame
+	*Changed moving method to use an enum instead
+
+[04.27.12]
+	+Added menuObjects arraylist in GameObject Class for in-game menu objects
+	*Fixed tile sizing
+	*Fixed getRandomTypeDominant method
+	*Fixed updating and rendering of the game
+	
+[04.28.12]
+	+Added Button Class
+	+Added InGameMenu Class
+	+Added in MainMenu Class
+	+Added method to get multiple tiles of a spritesheet in SpriteManager Class
+	*Fixed button class (calculations and pressed/hovered abstract methods)
